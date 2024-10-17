@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amir14a&theme=tokyonight&border_radius=32" />
 </a>
-<a href="https://git.io/streak-stats">
+ <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://streak-stats.demolab.com?user=amir14a&theme=tokyonight&border_radius=32&mode=weekly" alt="GitHub Streak" />
 </a>
 
@@ -28,8 +28,8 @@
 - <img alt="PHP" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=%23FFF&color=%237178AE">
 
 ## 🔧 My Open Source Repositories
-[![flutter-ipa-export](https://github-readme-stats.vercel.app/api/pin/?username=amir14a&repo=flutter-ipa-export&theme=tokyonight&border_radius=32)](https://github.com/amir14a/flutter-ipa-export)
-[![square_progress_indicator](https://github-readme-stats.vercel.app/api/pin/?username=amir14a&repo=square_progress_indicator&theme=tokyonight&border_radius=32)](https://github.com/amir14a/square_progress_indicator)
+[![flutter-ipa-export](https://github-readme-stats.vercel.app/api/pin/?username=amir14a&repo=flutter-ipa-export&theme=tokyonight&border_radius=32&cache=2)](https://github.com/amir14a/flutter-ipa-export)
+[![square_progress_indicator](https://github-readme-stats.vercel.app/api/pin/?username=amir14a&repo=square_progress_indicator&theme=tokyonight&border_radius=32&cache=2)](https://github.com/amir14a/square_progress_indicator)
 
 
 ## 💕 My Interests
