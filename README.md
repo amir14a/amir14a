@@ -1,13 +1,15 @@
-<p style='text-align: center'><a href="https://git.io/typing-svg"><img style="border-radius: 32px" src="https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2000&pause=2000&color=70A5FD&background=1A1B27FF&center=true&size=25&multiline=true&random=false&width=435&height=72&border-radius=32&lines=AmirAbbas+Jannatian;Mobile+developer" alt="Typing SVG" /></a></p>
-
+<div align="center"><a href="https://git.io/typing-svg"><img style="border-radius: 32px" src="https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2000&pause=2000&color=70A5FD&background=1A1B27FF&center=true&size=25&multiline=true&random=false&width=435&height=72&border-radius=32&lines=AmirAbbas+Jannatian;Mobile+developer" alt="Typing SVG" /></a>
+<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amir14a&theme=tokyonight&border_radius=32" />
 </a>
- <a href="https://git.io/streak-stats">
+<br><br>
+<a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://streak-stats.demolab.com?user=amir14a&theme=tokyonight&border_radius=32&mode=weekly" alt="GitHub Streak" />
 </a>
+</div>
 
-## 📞 How To Contact Me
+## 📞 Contact Me With
 
 <a href='https://t.me/amir_a14'><img alt="Telegram" src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=%23FFF"></a>
 <a href='https://wa.me/989399880341'><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=%23FFF&color=%2332D14E"></a>
