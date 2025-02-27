@@ -4,9 +4,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amir14a&theme=tokyonight&border_radius=32" />
 </a>
 <br><br>
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://streak-stats.demolab.com?user=amir14a&theme=tokyonight&border_radius=32&mode=weekly" alt="GitHub Streak" />
-</a>
+</a> -->
 </div>
 
 ## 📞 Contact Me With
